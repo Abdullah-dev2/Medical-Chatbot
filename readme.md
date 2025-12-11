@@ -6,9 +6,6 @@
   <h1>Medical Chatbot</h1>
   <p><em>An AI-powered assistant for safe and informative medical guidance.</em></p>
 
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"/>
-  </a>
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version"/>
   <img src="https://img.shields.io/badge/Flask-2.x-green.svg" alt="Flask"/>
   <img src="https://img.shields.io/badge/Docker-ready-blue.svg" alt="Docker Ready"/>
