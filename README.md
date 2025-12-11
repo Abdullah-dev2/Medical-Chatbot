@@ -3,22 +3,6 @@
 	<img src="https://img.icons8.com/color/96/000000/robot-2.png" alt="Medical Chatbot Logo" width="100"/>
 	<h1>Medical Chatbot</h1>
 	<p><em>Your AI-powered assistant for medical queries and health information.</em></p>
-  
-	<a href="https://opensource.org/licenses/MIT">
-		<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-	</a>
-	<img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version">
-	<img src="https://img.shields.io/badge/Flask-2.x-green.svg" alt="Flask">
-	<img src="https://img.shields.io/badge/Docker-ready-blue.svg" alt="Docker Ready">
-</div>
-
----
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/yourusername/banner-medibot.png" alt="Medical Chatbot Banner" width="80%"/>
-</p>
-
----
 
 ## 🚀 Overview
 
@@ -110,4 +94,5 @@ Contributions are welcome! Please open an issue or pull request for suggestions,
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 # Medical-Chatbot
